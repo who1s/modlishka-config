@@ -14,7 +14,7 @@ You need to use your own domain with wildcard A record to desired IP address (e.
 After that you can request certificate from Let's Encrypt:
 ```
 # apt-get install certbot
-# certbot certonly --manual --preferred-challenges dns --server https://acme-v02.api.letsencrypt.org/directory --manual-public-ip-logging-ok -d '*.phishing.fi' -d phishing.fi
+# certbot certonly --manual --preferred-challenges dns --manual-public-ip-logging-ok -d '*.phishing.fi' -d phishing.fi
 # cp -r /etc/letsencrypt/archive/phishing.fi/ .
 
 ```
