@@ -1,5 +1,5 @@
 {
-  "proxyDomain": "localhost",
+  "proxyDomain": "phishing.fi",
   "listeningAddress": "0.0.0.0",
   "proxyAddress": "",
   "target": "mail.google.com",
