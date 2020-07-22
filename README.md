@@ -35,4 +35,4 @@ After that you are ready to go if you have docker installed:
 # ./start_modlishka.sh
 ```
 
-More detailed description on my blog: [https://blog.dfir.fi/](https://blog.dfir.fi/).
+More detailed description on my blog: [https://blog.dfir.fi/tools/training/2020/07/22/phishing-mfa.html](https://blog.dfir.fi/tools/training/2020/07/22/phishing-mfa.html).
