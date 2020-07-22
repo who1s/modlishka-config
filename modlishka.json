@@ -1,5 +1,5 @@
 {
-  "proxyDomain": "example.com",
+  "proxyDomain": "localhost",
   "listeningAddress": "0.0.0.0",
   "proxyAddress": "",
   "target": "mail.google.com",
